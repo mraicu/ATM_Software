@@ -4,5 +4,5 @@
 
 ## How To Use
 
-- **Input**: type a key from "coduri";
+- **Input**: type a key from "coduri.txt" file;
 - **Output**: changes that you chose in process.
